@@ -1,4 +1,4 @@
-# NYCU_Data_Science_HW
+# NYCU_Data_Science_homework
 ## HW1
 Find some data sets that you plan to study for your future homework and final project. Explain the features in your dataset.
 ## HW2
