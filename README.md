@@ -22,5 +22,7 @@ Use R, Python and/or others to analyze some datasets and explain the results you
 ## HW8
 Basic part:
 - Find datasets and conduct text mining with data preprocessing and frequency analysis.
+
+
 Advanced part:
 - Perform more analysis, like more classification and/or the other analysis, with your text data.
